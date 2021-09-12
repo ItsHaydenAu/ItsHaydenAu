@@ -1,0 +1,5 @@
+- 👋 Hi, My name is Hayden Ormiston
+- 👀 I’m interested in ... Web app development & mobile app development 
+- 🌱 I’m currently learning ... HTML, CSS & Javascript (including REACT) + SQL/general backend
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... by email: hayden.ormiston@gmail.com
